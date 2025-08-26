@@ -10,6 +10,15 @@ Incluye módulos integrados como:
  
 ---
 
+## 👨‍💻 Autores
+
+| Nombre              | Rol               | GitHub                                                                 |
+|---------------------|------------------|------------------------------------------------------------------------|
+| Sebastián Rocop     | Backend Developer | [sebas413pa](https://github.com/sebas413pa)                           |
+| Constanza Cifuentes | Backend Developer | [ConstanzaCif](https://github.com/ConstanzaCif)                       |
+| Jose Lopez          | Frontend Developer | [JoseLopez1923](https://github.com/JoseLopez1923)                     |
+   
+
 ## Requisitos
 
 - Python 3.10+
